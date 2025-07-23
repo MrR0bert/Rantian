@@ -1,0 +1,42 @@
+{
+    "Version": "0.1",
+    "ModID": "mrrobert_rantian_imperium_specialists_pack",
+    "Category": {
+      "Chinese": null,
+      "English": "Gameplay",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "ModName": {
+      "Chinese": null,
+      "English": "Rantian Imperium Specialists Pack",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "Description": {
+      "Chinese": null,
+      "English": "A collection of the Rantian Imperium Specialists, to boost the empire!",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "DLCDependencies": [],
+    "CreatorName": "MrR0b3rt"
+  }
