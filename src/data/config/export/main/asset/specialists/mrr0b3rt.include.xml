@@ -1,0 +1,62 @@
+<ModOps>
+    <ModOp Type="addNextSibling" GUID="125072">
+        <Asset>
+            <Template>TownhallItem</Template>
+            <Values>
+                <Standard>
+                    <GUID>1500039000</GUID>
+                    <Name>rantian_specialist_mrr0b3rt</Name>
+                    <IconFilename>data/ui/mrr0b3rt.png</IconFilename>
+                    <InfoDescription>1500039001</InfoDescription>
+                </Standard>
+                <Item>
+                    <MaxStackSize>1</MaxStackSize>
+                    <Rarity>Legendary</Rarity>
+                    <ItemType>Specialist</ItemType>
+                    <TradePrice>666000</TradePrice>
+                    <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+                </Item>
+                <ItemEffect>
+                    <EffectTargets>
+                        <Item>
+                            <GUID>190041</GUID>
+                        </Item>
+                    </EffectTargets>
+                </ItemEffect>
+                <BuildingUpgrade />
+                <PopulationUpgrade />
+                <ItemAction />
+                <ExpeditionAttribute>
+                    <BaseMorale>0</BaseMorale>
+                    <ExpeditionAttributes>
+                        <Item>
+                            <Attribute>Crafting</Attribute>
+                            <Amount>35</Amount>
+                        </Item>
+                        <Item>
+                            <Attribute>Faith</Attribute>
+                            <Amount>50</Amount>
+                        </Item>
+                        <Item />
+                    </ExpeditionAttributes>
+                    <ItemDifficulties>Hard</ItemDifficulties>
+                    <!-- TODO: Figure this out: <FluffText>2100119170</FluffText> -->
+                </ExpeditionAttribute>
+                <ResidenceUpgrade>
+                    <AdditionalHappiness>5</AdditionalHappiness>
+                </ResidenceUpgrade>
+                <VisitorHarborUpgrade />
+                <CultureUpgrade />
+                <IncidentInfectableUpgrade />
+                <IncidentInfluencerUpgrade />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Buff />
+                <CraftableItem />
+                <VisualEffectWhenActive />
+                <FactoryUpgrade />
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

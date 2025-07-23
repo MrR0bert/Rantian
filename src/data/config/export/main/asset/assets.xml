@@ -1,0 +1,11 @@
+<!-- 
+ Rantian Imperium Specialists Pack 
+ Brought to you by the Rantain Community (https://discord.gg/r4AkPV9W)
+
+ Reserved GUID range for this mod: 1500039000 - 1500039999 
+ See: https://github.com/anno-mods/GuidRanges?tab=readme-ov-file#public-guid-ranges
+ User: MrR0b3rt
+-->
+<ModOps>
+    <Include File="./specialists/mrr0bb3rt.include.xml" />
+</ModOps>
